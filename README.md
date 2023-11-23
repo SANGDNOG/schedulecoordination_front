@@ -1,6 +1,6 @@
 # 내일 뭐해?
 
-[📝보고서](https://docs.google.com/document/d/1Fdgzn2Ri8FAZvxWaU5PZWiC2gWi3gsTZrB334nbdbX8/edit)
+[📝보고서](https://docs.google.com/document/d/1Fdgzn2Ri8FAZvxWaU5PZWiC2gWi3gsTZrB334nbdbX8/edit?usp=sharing)
 
 [🎥영상](https://clipchamp.com/watch/OG4pIHk1qXm)
 
