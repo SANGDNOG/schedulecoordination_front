@@ -1,0 +1,87 @@
+.main_header {
+  padding: 0 50px;
+  width: auto;
+  height: 104px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 -5px 30px -20px;
+}
+
+.logo {
+  width: 240px;
+  height: 56px;
+  padding-right: 150px;
+  background-color: transparent;
+  position: relative;
+  top: 20%;
+  left: 5%;
+}
+
+.logo_image {
+  width: 150px;
+  height: 100%;
+  object-fit: cover;
+}
+
+.menu {
+  width: 700px;
+  background-color: transparent;
+  position: relative;
+  top: 32%;
+  right: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.tab {
+  height: 30px;
+  background-color: transparent;
+  font-size: 20px;
+  font-family: "Noto Sans KR", sans-serif;
+  text-decoration: none;
+  color: black;
+  border: 0;
+}
+
+.tab:hover {
+  color: #4b77f2;
+}
+
+.my_menu {
+  margin-top: 1px;
+  width: 160px;
+  height: 30px;
+  text-align: end;
+}
+
+.smallTab {
+  font-size: 18px;
+  font-weight: bold;
+  color: #4b77f2;
+}
+
+.smallBar {
+  display: inline-block;
+  padding: 0 10px;
+  content: " \007C";
+}
+
+/* .menu_button {
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    position: relative;
+    top: 25%;
+    border: 0;
+}
+
+.menu_image {
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+}
+
+.menu_button:hover {
+    filter: opacity(0.5) drop-shadow(0 0 0 #4B77F2);
+} */

@@ -1,0 +1,12 @@
+.main_body {
+    width: 1000px;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media (max-width: 1000px) {
+    .main_body {
+        width: auto;
+    }
+}

@@ -1,0 +1,66 @@
+.navbar {
+    width: auto;
+    height: 150px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.time_tunning_menu {
+    padding-top: 40px;
+}
+
+.menu_status {
+    font-size: 32px;
+    font-family: 'Noto Sans KR', sans-serif;
+    background-color: transparent;
+}
+
+.menu_status_bold {
+    font-weight: bold;
+}
+
+.menu {
+    padding-top: 15px;
+    background-color: transparent;
+}
+
+.menu_ing {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: transparent;
+    text-decoration: none;
+    color: black;
+}
+
+.menu_ing:hover {
+    color:#4B77F2;
+}
+
+.menu_end {
+    margin: 45px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: transparent;
+    text-decoration: none;
+    color: black;
+}
+
+.menu_end:hover {
+    color:#4B77F2;
+}
+
+.btn_add {
+    width: 120px;
+    height: 35px;
+    margin-top: 55px;
+    background-color: #4B77F2;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+}

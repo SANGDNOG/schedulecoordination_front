@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-weight: 400;
+    src: url('fonts/NotoSansKR-Regular.otf') format('woff2'),
+    url('fonts/NotoSansKR-Regular.otf') format('woff'),
+    url('fonts/NotoSansKR-Regular.otf') format('truetype');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.rdrCalendarWrapper {
+    width: 557px;
+    height: 445px;
+}
+
+.rdrDateDisplayWrapper {
+    background-color: transparent;
+}
+
+.rdrDateDisplayItem {
+    box-shadow: none;
+    border: 1px solid #DEDEDE;
+    border-radius: 10px;
+
+}
+
+.rdrMonthAndYearWrapper {
+    padding: 0;
+}
+
+.rdrMonthName, .rdrWeekDay, .rdrDayNumber {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    opacity: 1;
+    color: #4B77F2;
+}

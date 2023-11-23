@@ -1,0 +1,25 @@
+.scheduleBlock {
+    width: 1000px;
+    height: 100px;
+    margin-top: 30px;
+    /* border-left: 9px solid teal; */
+    box-shadow: 0 0 30px -28px black;
+    border-radius: 9px;
+}
+
+.color {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    position: absolute;
+    margin: 34px 0 0 30px;
+}
+
+.title {
+    display: inline-block;
+    margin: 20px 0 0 90px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #3F3F3F;
+}

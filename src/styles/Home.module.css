@@ -1,0 +1,250 @@
+.timetuning {
+  position: relative;
+  width: auto;
+  top: 38px;
+  height: 50px;
+  bottom: 10px;
+  color: #4b77f2;
+  font-size: 20px;
+  font-weight: 1000;
+  text-align: center;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.timeex {
+  position: relative;
+  top: 60px;
+  text-align: center;
+  font-size: 60px;
+  font-weight: 1000;
+  font-weight: bolder;
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.homediv {
+  width: 100%;
+  /* height: 150px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-family: "Noto Sans KR", sans-serif;
+  /* margin-top: 350px; */
+}
+
+.Frame {
+  position: relative;
+  width: 330px;
+  height: 300px;
+  left: -550px;
+  top: 118px;
+}
+.Frametop {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  left: -230px;
+  top: 90px;
+  /* align-content: flex-end; */
+}
+.Vector {
+  display: flex;
+  position: absolute;
+  width: 200px;
+  left: 1830px;
+  bottom: 80px;
+  background-color: transparent;
+  z-index: -1;
+}
+
+.vectordiv {
+  position: relative;
+  right: 110px;
+  text-align: end;
+  height: 250px;
+}
+
+.frametopdiv {
+  position: relative;
+  width: 100px;
+  height: auto;
+  top: 30px;
+  left: 550px;
+}
+
+.framediv {
+  position: relative;
+  width: auto;
+  height: 420px;
+  top: 30px;
+  left: 580px;
+}
+
+.maindiv {
+  position: relative;
+  display: flex;
+  width: 500px;
+}
+
+.main_logo {
+  position: relative;
+  width: 100%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  scale: 1.5;
+}
+
+.main_logo_img {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* 2page */
+.two {
+  margin-top: 50px;
+  width: 100%;
+}
+
+.logoFrame {
+  position: relative;
+  z-index: -1;
+  bottom: 140px;
+  right: 30px;
+}
+
+.logocircle {
+  position: relative;
+  bottom: 170px;
+  width: 250px;
+  height: 250px;
+  left: 1600px;
+  z-index: -1;
+}
+
+.twomain {
+  /* position: relative;
+  bottom: 240px;
+  max-width: 100%;
+  left: 450px;
+  height: auto; */
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* 2page text*/
+/* .text{
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Noto Sans KR', sans-serif;
+    bottom: 200px;
+}
+
+.clockbox{
+    text-align: center;
+    width: 500px;
+    margin-right: -100px;
+}
+
+.box{
+    position: relative;
+    box-shadow: 0 0 15px -12px black;
+    border-radius: 20px;
+}
+
+.clock{
+    position: relative;
+    background-color: transparent;
+    bottom: 360px;
+    right: 130px;
+}
+
+.circlehandle{
+    position: relative;
+    right: 43px;
+    bottom: 20px;
+}
+
+.timesaving{
+    position: relative;
+    bottom: 320px;
+    font-size: 30px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.timesaving2{
+    position: relative;
+    color: #858585;
+    font-weight: bolder;
+    font-size: 18px;
+    bottom: 290px;
+} */
+
+/* 3page */
+
+.logocircle3 {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  z-index: -1;
+  right: 70px;
+  bottom: 90px;
+}
+
+.threemain {
+  position: relative;
+  max-width: 100%;
+  height: auto;
+  bottom: 50px;
+  left: 240px;
+}
+
+.logoimgdiv {
+  height: 220px;
+}
+
+.logoimg {
+  position: relative;
+  width: 350px;
+  left: 1530px;
+  bottom: 170px;
+  z-index: -1;
+}
+
+/* 4page */
+
+.fourmain {
+  position: relative;
+  max-width: 100%;
+  height: auto;
+  bottom: 50px;
+  left: 260px;
+}
+
+.logo {
+  position: relative;
+  z-index: -1;
+  width: 370px;
+  left: 1460px;
+}
+
+/* .div {
+  position: relative;
+  right: 470px;
+  width: 1905px;
+} */
+
+.logocircle4 {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  z-index: -1;
+  right: 100px;
+  bottom: 90px;
+}

@@ -1,0 +1,22 @@
+.footer {
+    width: auto;
+    height: 100px;
+    background-color: white;
+    box-shadow: 0 5px 30px -20px;
+}
+
+.texts {
+    margin: 35px 0 0 150px;
+    display: inline-block;
+    font-family: 'Noto Sans KR', sans-serif;
+    /* font-weight: bold; */
+    font-size: 16px;
+    color: #858585;
+    /* display: inline-flex; */
+    /* flex-direction: column; */
+}
+
+.top_text {
+    margin-right: 15px;
+    font-size: 20px;
+}

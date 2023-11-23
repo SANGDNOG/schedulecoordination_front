@@ -1,0 +1,54 @@
+.colorPicker {
+    width: 330px;
+    height: 32px;
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: transparent;
+}
+
+.btns {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.addBtn {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.addBtnNotCheck {
+    box-shadow: 0 0 20px -12px black;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #DEDEDE;
+}
+
+.check {
+    border: 5px solid #4B77F2;
+}
+
+.notCheck {
+    border: none;
+}
+
+.popover {
+    position: absolute;
+    z-index: 2;
+    top: 200px;
+}
+
+.cover {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
